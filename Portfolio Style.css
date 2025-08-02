@@ -1,0 +1,26 @@
+body{
+ background-image:url("../../../Downloads/portfolio background image.jpg");
+ background-size: cover;
+}
+
+h1{
+    color:blueviolet
+}
+h3{
+color:olivedrab
+}
+p{
+    color:whitesmoke
+}
+h4{
+    color:aqua
+}
+h5{
+    color:cadetblue
+}
+footer{
+    color:gold
+}
+a{
+    text-decoration: none;
+}
